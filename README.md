@@ -35,8 +35,4 @@
 
 </div>
 
-<div align="center">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=7empestx.visitor-badge)
-
-</div>
+![GitHub profile views](https://komarev.com/ghpvc/?username=7empestx&color=009999&style=for-the-badge)
