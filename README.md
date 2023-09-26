@@ -29,3 +29,15 @@
       <a href="https://github.com/awsdocs/aws-doc-sdk-examples/pull/4477" target="_blank">Added example code for s3 - getting a PDF from an S3 bucket and saving it</a>
     </ul>
 </div>
+<div align="center">
+  <h5>Open Source Technology I Couldn't Dev Without</h5>
+    <ul>
+      <a href="https://github.com/neovim/neovim" target="_blank">Neovim</a>
+    </ul>
+    <ul>
+      <a href="https://github.com/gnachman/iTerm2" target="_blank">iTerm2</a>
+    </ul>
+    <ul>
+      <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank">ohmyzsh</a>
+    </ul>
+</div>
