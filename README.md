@@ -12,7 +12,7 @@
 [![Languages](https://skillicons.dev/icons?i=cpp,ts,c,react,js,py,ghactions,postgres)](https://skillicons.dev)
 
 #### 🤩 Technology I Love
-[![Tech](https://skillicons.dev/icons?i=vim,git,aws)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=vim,git,aws,github)](https://skillicons.dev)
 
 </div>
 
