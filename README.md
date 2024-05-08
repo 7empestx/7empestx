@@ -9,7 +9,7 @@
 ### 🛠 Software Engineer | 🧪 Electronics Technician
 
 #### 💖 My Love Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,ts,c,react,js,py,ghactions)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,ts,c,react,js,py,ghactions,postgres)](https://skillicons.dev)
 
 #### 🤩 Technology I Love
 [![Tech](https://skillicons.dev/icons?i=vim,git,aws)](https://skillicons.dev)
